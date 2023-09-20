@@ -1,1 +1,1 @@
-# CloudFormation-Jenkins-CI-CD-Kiru
+# CloudFormation-Jenkins-CI-CD
